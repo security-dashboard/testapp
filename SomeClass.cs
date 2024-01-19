@@ -14,7 +14,7 @@ namespace poc1
         }
         public string ConnectionString { get; set; } = "Server=10.0.0.101;Database=CustomerData";
 
-        public SqlConnection ConnectToDatabase(HttpRequest request)
+        public SqlConnection ConnectToDatabase(HttpRequest request) 
         {
             string connectionString = string.Format("{0};User ID={1};Password={2}",
                 ConnectionString,
