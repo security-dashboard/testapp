@@ -7,7 +7,7 @@ using System.Runtime.Serialization.Formatters.Binary;
 namespace poc1
 {
     public class SomeClass
-    {  
+    {   
         public SomeClass()  
         {
          
