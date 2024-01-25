@@ -9,7 +9,7 @@ namespace poc1
     public class SomeClass
     {   
         public SomeClass()  
-        {
+        { 
          
         }
         public string ConnectionString { get; set; } = "Server=10.0.0.101;Database=CustomerData";
