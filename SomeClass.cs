@@ -8,7 +8,7 @@ namespace poc1
 {
     public class SomeClass 
     {   
-        public SomeClass()   
+        public SomeClass()    
         { 
            
         }
