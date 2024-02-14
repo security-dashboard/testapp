@@ -29,7 +29,7 @@ namespace poc1
 
         public int CalculateResultInNestedLoops()
         {
-            var a = 0;
+            var a = 0; 
             var b = 0;
             var c = 0; 
             var d = 0;
