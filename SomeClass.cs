@@ -24,7 +24,7 @@ namespace poc1
             SqlConnection connection = new SqlConnection();
             connection.ConnectionString = connectionString; // Noncompliant
             connection.Open();
-            return connection;
+            return connection; 
         }
 
         public int CalculateResultInNestedLoops()
