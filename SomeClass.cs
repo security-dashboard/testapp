@@ -42,7 +42,7 @@ namespace poc1
             {
                 for (var j = 0; j < 5; j++)
                 {
-                    for (var k = 0; k < 5; k++)
+                    for (var k = 0; k < 5; k++) 
                     {
                         for (var l = 0; l < 5; l++)
                         {
