@@ -36,7 +36,7 @@ namespace poc1
             var e = 0;
             var f = 0; 
             var g = 0;
-            var h = 0;  
+            var h = 0;   
             var result = 0;
             for(var i  = 0; i < 5; i++)
             {
